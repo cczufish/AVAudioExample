@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AVAudioViewController.h
 //  AVAudioExample
 //
 //  Created by YuShuHui on 13-12-2.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface AVAudioViewController : UIViewController
 
 @end
